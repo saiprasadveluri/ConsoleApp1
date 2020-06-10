@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helo Jenkins-second test");
+            Console.WriteLine("Helo Jenkins-second test-2");
         }
     }
 }
