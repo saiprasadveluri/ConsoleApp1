@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helo Jenkins-second test-2-Second Change to Git");
+            Console.WriteLine("Helo Jenkins-second test-2-Another Change to Git");
+            Console.ReadLine();
         }
     }
 }
